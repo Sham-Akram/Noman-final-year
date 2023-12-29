@@ -1,0 +1,41 @@
+.MuiPaper-root {
+  background-color: black !important;
+  color: white !important;
+  /* border: 2px solid red !important;
+  margin-top: 10px !important; */
+}
+
+svg {
+  color: white !important;
+}
+
+.MuiTableCell-root {
+  background-color: black !important;
+  color: white !important;
+}
+
+p {
+  color: white !important;
+}
+
+span {
+  color: white !important;
+}
+
+.tss-14ngk2z-MUIDataTableFilter-reset {
+  border: 3px solid red;
+}
+
+.tss-1wwzodd-MUIDataTableFilter-header {
+  background-color: black !important;
+}
+
+.MuiPaper-root .MuiPaper-elevation .MuiPaper-rounded .MuiPaper-elevation2 .MuiPopover-paper .tss-oeo5eo-MUIDataTableToolbar-filterPaper .css-ubpweo-MuiPaper-root-MuiPopover-paper */ .MuiPaper-root {
+  background-color: black !important;
+  color: white;
+}
+
+.MuiGrid-root {
+  color: white !important;
+  background-color: black;
+}
